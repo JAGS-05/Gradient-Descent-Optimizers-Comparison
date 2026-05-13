@@ -1,6 +1,6 @@
 # Gradient Descent Optimizer Comparison
 
-Comparing **Momentum GD**, **RMSProp**, and **Nesterov Accelerated Gradient (NAG)** implemented from scratch in NumPy — visualized on a real loss surface.
+Implemented **Momentum GD**, **RMSProp**, and **Nesterov Accelerated Gradient (NAG)** from scratch using Python and visualized on a real loss surface for comparison.
 
 > Binary classification on the Breast Cancer Wisconsin dataset using Logistic Regression, with weights reduced to 2D via PCA so every step can be plotted directly on the loss contour.
 
@@ -66,5 +66,5 @@ Computes the gradient where the optimizer *will be* rather than where it current
 
 ```bash
 pip install numpy scikit-learn matplotlib seaborn
-python optimizer_final_fixed.py
+python optimizer_final_implementation.py
 ```
