@@ -62,17 +62,6 @@ Computes the gradient where the optimizer *will be* rather than where it current
 
 ---
 
-## Project Structure
-
-```
-.
-├── optimizer_final_implementation.py       # All code: data, model, optimizers, plots
-├── contour_trajectories_fixed.png  # Loss surface + trajectory plots
-├── README.md
-```
-
----
-
 ## How to Run
 
 ```bash
