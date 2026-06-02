@@ -1,6 +1,6 @@
 # Gradient Descent Optimizer Comparison
 
-Implemented **Momentum GD**, **RMSProp**, and **Nesterov Accelerated Gradient (NAG)** from scratch using Python and visualized on a real loss surface for comparison.
+Implemented **Momentum GD**, **RMSProp**, and **Nesterov Accelerated Gradient (NAG)** from scratch using Python and visualized on a real loss surface for comparison. Analyzed convergence behavior, loss dynamics, and training stability under different optimization settings.
 
 > Binary classification on the Breast Cancer Wisconsin dataset using Logistic Regression, with weights reduced to 2D via PCA so every step can be plotted directly on the loss contour.
 
